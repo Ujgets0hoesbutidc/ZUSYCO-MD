@@ -23,8 +23,8 @@ module.exports = {
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    WELCOME: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm0Hm5JT2BdAKq3kohZu7BoYcef4WQ0y1byvWLFH-Hg&s',
+    GOODBYE: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFm0Hm5JT2BdAKq3kohZu7BoYcef4WQ0y1byvWLFH-Hg&s'
   },
   STOP_SEND : {
         WELCOME_MESSAGE : false,
