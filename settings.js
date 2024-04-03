@@ -11,14 +11,14 @@
 
 
 Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Creator : @darkmakerofc , @mr-nima-x , @uj
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
+  OWNER_NUMBER: "919706183172",
   SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
+  OWNER_NAME: "『 ＵＪ 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -35,11 +35,11 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ʙᴏᴛ',
+  STICKER_PACK : '[ LISTEN TO MY MUSIC ON SPOTIFY @$KI ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
-  ANTI_LINKS : 'chat.whatsapp.com',
+  ANTI_LINKS : 'chat.whatsapp.com, https://youtu.be',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
   MAX_SIZE : 100,
